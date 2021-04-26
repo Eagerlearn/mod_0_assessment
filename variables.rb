@@ -1,5 +1,5 @@
 famous_person = "guy_buford"
-is_an_astronaut = true
+is_active = true
 famous_person = "anthony hopkins"
 num_3 = 7
 num_9 = 10
