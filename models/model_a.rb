@@ -1,3 +1,4 @@
+# Creating hash with 8 key values (2 strings, 2 integer, 2 boolean, 2 arrays)
 school = {
   "name" => 'overbrook',
   "city" => 'philadelphia',
